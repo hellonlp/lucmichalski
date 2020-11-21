@@ -1,16 +1,22 @@
-### Hi there 👋
+## Configuration
 
-<!--
-**lucmichalski/lucmichalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```sh
+# Identity Name
+git config --global user.name "x0rzkov"
 
-Here are some ideas to get you started:
+# Identity Email
+git config --global user.email "x0rzkov@protonmail.com"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Editor Tool
+git config --global core.editor subl
+
+# Diff Tool
+git config --global merge.tool filemerge
+```
+
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=x0rzkov&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://lon9.github.io">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0rzkov&theme=dark&hide=html" />
+</a>
